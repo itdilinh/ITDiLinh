@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**itdilinh/ITDiLinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Hưng], a Full-Stack Software Engineer.  
 
-Here are some ideas to get you started:
+That means I can get a project done from start to finish with awesome technical stack.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend  
+- PHP - Laravel / Zend / Codeigniter / Wordpress  
+- Node.js - Express / NestJS  
+- Python - Django
+- C# ASP.NET 
+
+## Frontend  
+- Javascript  
+- VueJS - NuxtJS  
+- JQuery  
+- Bootstrap
+## Mobile
+Android - Java / Flutter / Kotlin
+IOS - Flutter
+
+## Desktop
+- Java
+- C# - Winform
+- 
+## DevOps  
+ -Docker - Swarm / K8
+- Linux
+- Github Actions
+- Gitlab CI
+- ## 🌱 A Real Project is Worth More Than a Thousand Words ... Let see my projects:
